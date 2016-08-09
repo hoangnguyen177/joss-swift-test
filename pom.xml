@@ -13,7 +13,13 @@
     			<groupId>org.javaswift</groupId>
     			<artifactId>joss</artifactId>
     			<version>0.9.7</version>
-		</dependency>
+	</dependency>
+	<dependency>
+	  <groupId>commons-logging</groupId>
+	  <artifactId>commons-logging</artifactId>
+	  <version>1.2</version>
+	</dependency>
+
 	</dependencies>
 
 	<build>
